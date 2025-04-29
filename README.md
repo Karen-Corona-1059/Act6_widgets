@@ -1,6 +1,7 @@
 # Act6_widgets_Corona
 
 ![image](https://github.com/user-attachments/assets/863a9d11-12bc-454c-93d2-7d8bf59de4ee)
+![image](https://github.com/user-attachments/assets/b6f2ffc5-73c2-4c04-b169-829f612a2823)
 
 
 ![image](https://github.com/user-attachments/assets/89112443-3314-4c9d-b9e1-ae15495f2f82)
@@ -16,7 +17,6 @@
 ![image](https://github.com/user-attachments/assets/7a9fc5f6-1930-46f4-88de-143fc127d609)
 
 ![image](https://github.com/user-attachments/assets/5eb4a1d9-7f71-48f0-9157-e280301aea53)
-![image](https://github.com/user-attachments/assets/c7d97cc0-626b-405a-a027-281bc25a2dce)
 
 
 
